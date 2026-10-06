@@ -136,7 +136,7 @@ Por ejemplo:
 
 ```text
 SPEEDFAST_DB_USER=speedfast
-SPEEDFAST_DB_PASSWORD=SpeedFast123!
+SPEEDFAST_DB_PASSWORD=TU_PASSWORD
 ```
 
 No es necesario guardar credenciales dentro del código.
