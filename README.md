@@ -41,8 +41,7 @@ SpeedFast_Semana8/
 │       └── VentanaRepartidores.java
 ├── .gitignore
 ├── pom.xml
-├── README.md
-└── GUIA_ENTREGA.md
+└── README.md
 ```
 
 ## CRUD implementado
